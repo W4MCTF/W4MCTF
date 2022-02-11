@@ -11,4 +11,4 @@ This repo is mostly to share our CTF challenge writeups, but that could definite
 ### 2022:
 
 - CactusCon 10 CTF
-  - 
+
